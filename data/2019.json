@@ -1,0 +1,1150 @@
+[
+  {
+    "startDate": "2019-06-03T00:00:00+02:00",
+    "endDate": "2019-06-03T01:00:00+02:00",
+    "price_euros_mwh": 26.61,
+    "wind_mwh": 1885,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-03T01:00:00+02:00",
+    "endDate": "2019-06-03T02:00:00+02:00",
+    "price_euros_mwh": 23.34,
+    "wind_mwh": 1967,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-03T02:00:00+02:00",
+    "endDate": "2019-06-03T03:00:00+02:00",
+    "price_euros_mwh": 20.78,
+    "wind_mwh": 1980,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-03T03:00:00+02:00",
+    "endDate": "2019-06-03T04:00:00+02:00",
+    "price_euros_mwh": 17.71,
+    "wind_mwh": 1820,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-03T04:00:00+02:00",
+    "endDate": "2019-06-03T05:00:00+02:00",
+    "price_euros_mwh": 14.51,
+    "wind_mwh": 1794,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-03T05:00:00+02:00",
+    "endDate": "2019-06-03T06:00:00+02:00",
+    "price_euros_mwh": 21.16,
+    "wind_mwh": 1817,
+    "solar_mwh": 125
+  },
+  {
+    "startDate": "2019-06-03T06:00:00+02:00",
+    "endDate": "2019-06-03T07:00:00+02:00",
+    "price_euros_mwh": 22.24,
+    "wind_mwh": 1643,
+    "solar_mwh": 202
+  },
+  {
+    "startDate": "2019-06-03T07:00:00+02:00",
+    "endDate": "2019-06-03T08:00:00+02:00",
+    "price_euros_mwh": 41.46,
+    "wind_mwh": 1510,
+    "solar_mwh": 524
+  },
+  {
+    "startDate": "2019-06-03T08:00:00+02:00",
+    "endDate": "2019-06-03T09:00:00+02:00",
+    "price_euros_mwh": 45.02,
+    "wind_mwh": 1168,
+    "solar_mwh": 1261
+  },
+  {
+    "startDate": "2019-06-03T09:00:00+02:00",
+    "endDate": "2019-06-03T10:00:00+02:00",
+    "price_euros_mwh": 41.81,
+    "wind_mwh": 1143,
+    "solar_mwh": 2124
+  },
+  {
+    "startDate": "2019-06-03T10:00:00+02:00",
+    "endDate": "2019-06-03T11:00:00+02:00",
+    "price_euros_mwh": 39.36,
+    "wind_mwh": 1239,
+    "solar_mwh": 2855
+  },
+  {
+    "startDate": "2019-06-03T11:00:00+02:00",
+    "endDate": "2019-06-03T12:00:00+02:00",
+    "price_euros_mwh": 37.71,
+    "wind_mwh": 1340,
+    "solar_mwh": 3598
+  },
+  {
+    "startDate": "2019-06-03T12:00:00+02:00",
+    "endDate": "2019-06-03T13:00:00+02:00",
+    "price_euros_mwh": 36.25,
+    "wind_mwh": 1309,
+    "solar_mwh": 4322
+  },
+  {
+    "startDate": "2019-06-03T13:00:00+02:00",
+    "endDate": "2019-06-03T14:00:00+02:00",
+    "price_euros_mwh": 35.46,
+    "wind_mwh": 1246,
+    "solar_mwh": 4506
+  },
+  {
+    "startDate": "2019-06-03T14:00:00+02:00",
+    "endDate": "2019-06-03T15:00:00+02:00",
+    "price_euros_mwh": 35.23,
+    "wind_mwh": 1108,
+    "solar_mwh": 4609
+  },
+  {
+    "startDate": "2019-06-03T15:00:00+02:00",
+    "endDate": "2019-06-03T16:00:00+02:00",
+    "price_euros_mwh": 35.68,
+    "wind_mwh": 1047,
+    "solar_mwh": 4458
+  },
+  {
+    "startDate": "2019-06-03T16:00:00+02:00",
+    "endDate": "2019-06-03T17:00:00+02:00",
+    "price_euros_mwh": 35.69,
+    "wind_mwh": 1104,
+    "solar_mwh": 4117
+  },
+  {
+    "startDate": "2019-06-03T17:00:00+02:00",
+    "endDate": "2019-06-03T18:00:00+02:00",
+    "price_euros_mwh": 38.13,
+    "wind_mwh": 1106,
+    "solar_mwh": 3415
+  },
+  {
+    "startDate": "2019-06-03T18:00:00+02:00",
+    "endDate": "2019-06-03T19:00:00+02:00",
+    "price_euros_mwh": 45.42,
+    "wind_mwh": 1069,
+    "solar_mwh": 2436
+  },
+  {
+    "startDate": "2019-06-03T19:00:00+02:00",
+    "endDate": "2019-06-03T20:00:00+02:00",
+    "price_euros_mwh": 50.5,
+    "wind_mwh": 965,
+    "solar_mwh": 1333
+  },
+  {
+    "startDate": "2019-06-03T20:00:00+02:00",
+    "endDate": "2019-06-03T21:00:00+02:00",
+    "price_euros_mwh": 48.91,
+    "wind_mwh": 849,
+    "solar_mwh": 476
+  },
+  {
+    "startDate": "2019-06-03T21:00:00+02:00",
+    "endDate": "2019-06-03T22:00:00+02:00",
+    "price_euros_mwh": 44.94,
+    "wind_mwh": 841,
+    "solar_mwh": 176
+  },
+  {
+    "startDate": "2019-06-03T22:00:00+02:00",
+    "endDate": "2019-06-03T23:00:00+02:00",
+    "price_euros_mwh": 45.96,
+    "wind_mwh": 875,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-03T23:00:00+02:00",
+    "endDate": "2019-06-04T00:00:00+02:00",
+    "price_euros_mwh": 41.4,
+    "wind_mwh": 917,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T00:00:00+02:00",
+    "endDate": "2019-06-04T01:00:00+02:00",
+    "price_euros_mwh": 34.74,
+    "wind_mwh": 1001,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T01:00:00+02:00",
+    "endDate": "2019-06-04T02:00:00+02:00",
+    "price_euros_mwh": 32.99,
+    "wind_mwh": 1179,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T02:00:00+02:00",
+    "endDate": "2019-06-04T03:00:00+02:00",
+    "price_euros_mwh": 31.86,
+    "wind_mwh": 1409,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T03:00:00+02:00",
+    "endDate": "2019-06-04T04:00:00+02:00",
+    "price_euros_mwh": 28.28,
+    "wind_mwh": 1593,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T04:00:00+02:00",
+    "endDate": "2019-06-04T05:00:00+02:00",
+    "price_euros_mwh": 24.49,
+    "wind_mwh": 1903,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T05:00:00+02:00",
+    "endDate": "2019-06-04T06:00:00+02:00",
+    "price_euros_mwh": 25.14,
+    "wind_mwh": 2322,
+    "solar_mwh": 123
+  },
+  {
+    "startDate": "2019-06-04T06:00:00+02:00",
+    "endDate": "2019-06-04T07:00:00+02:00",
+    "price_euros_mwh": 30.74,
+    "wind_mwh": 2704,
+    "solar_mwh": 211
+  },
+  {
+    "startDate": "2019-06-04T07:00:00+02:00",
+    "endDate": "2019-06-04T08:00:00+02:00",
+    "price_euros_mwh": 37.98,
+    "wind_mwh": 2826,
+    "solar_mwh": 633
+  },
+  {
+    "startDate": "2019-06-04T08:00:00+02:00",
+    "endDate": "2019-06-04T09:00:00+02:00",
+    "price_euros_mwh": 47.69,
+    "wind_mwh": 2404,
+    "solar_mwh": 1561
+  },
+  {
+    "startDate": "2019-06-04T09:00:00+02:00",
+    "endDate": "2019-06-04T10:00:00+02:00",
+    "price_euros_mwh": 46.93,
+    "wind_mwh": 2190,
+    "solar_mwh": 2852
+  },
+  {
+    "startDate": "2019-06-04T10:00:00+02:00",
+    "endDate": "2019-06-04T11:00:00+02:00",
+    "price_euros_mwh": 42.24,
+    "wind_mwh": 2366,
+    "solar_mwh": 4038
+  },
+  {
+    "startDate": "2019-06-04T11:00:00+02:00",
+    "endDate": "2019-06-04T12:00:00+02:00",
+    "price_euros_mwh": 41,
+    "wind_mwh": 2483,
+    "solar_mwh": 4916
+  },
+  {
+    "startDate": "2019-06-04T12:00:00+02:00",
+    "endDate": "2019-06-04T13:00:00+02:00",
+    "price_euros_mwh": 37.56,
+    "wind_mwh": 2852,
+    "solar_mwh": 5543
+  },
+  {
+    "startDate": "2019-06-04T13:00:00+02:00",
+    "endDate": "2019-06-04T14:00:00+02:00",
+    "price_euros_mwh": 36.5,
+    "wind_mwh": 3438,
+    "solar_mwh": 5628
+  },
+  {
+    "startDate": "2019-06-04T14:00:00+02:00",
+    "endDate": "2019-06-04T15:00:00+02:00",
+    "price_euros_mwh": 35.19,
+    "wind_mwh": 4009,
+    "solar_mwh": 5431
+  },
+  {
+    "startDate": "2019-06-04T15:00:00+02:00",
+    "endDate": "2019-06-04T16:00:00+02:00",
+    "price_euros_mwh": 34.47,
+    "wind_mwh": 4744,
+    "solar_mwh": 4911
+  },
+  {
+    "startDate": "2019-06-04T16:00:00+02:00",
+    "endDate": "2019-06-04T17:00:00+02:00",
+    "price_euros_mwh": 36.65,
+    "wind_mwh": 5406,
+    "solar_mwh": 4310
+  },
+  {
+    "startDate": "2019-06-04T17:00:00+02:00",
+    "endDate": "2019-06-04T18:00:00+02:00",
+    "price_euros_mwh": 30.03,
+    "wind_mwh": 5943,
+    "solar_mwh": 3417
+  },
+  {
+    "startDate": "2019-06-04T18:00:00+02:00",
+    "endDate": "2019-06-04T19:00:00+02:00",
+    "price_euros_mwh": 39.39,
+    "wind_mwh": 6146,
+    "solar_mwh": 2105
+  },
+  {
+    "startDate": "2019-06-04T19:00:00+02:00",
+    "endDate": "2019-06-04T20:00:00+02:00",
+    "price_euros_mwh": 43.05,
+    "wind_mwh": 5834,
+    "solar_mwh": 998
+  },
+  {
+    "startDate": "2019-06-04T20:00:00+02:00",
+    "endDate": "2019-06-04T21:00:00+02:00",
+    "price_euros_mwh": 37.28,
+    "wind_mwh": 4974,
+    "solar_mwh": 371
+  },
+  {
+    "startDate": "2019-06-04T21:00:00+02:00",
+    "endDate": "2019-06-04T22:00:00+02:00",
+    "price_euros_mwh": 38.28,
+    "wind_mwh": 3996,
+    "solar_mwh": 155
+  },
+  {
+    "startDate": "2019-06-04T22:00:00+02:00",
+    "endDate": "2019-06-04T23:00:00+02:00",
+    "price_euros_mwh": 33.83,
+    "wind_mwh": 3399,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-04T23:00:00+02:00",
+    "endDate": "2019-06-05T00:00:00+02:00",
+    "price_euros_mwh": 28.01,
+    "wind_mwh": 2809,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T00:00:00+02:00",
+    "endDate": "2019-06-05T01:00:00+02:00",
+    "price_euros_mwh": 27.48,
+    "wind_mwh": 2756,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T01:00:00+02:00",
+    "endDate": "2019-06-05T02:00:00+02:00",
+    "price_euros_mwh": 26.06,
+    "wind_mwh": 2847,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T02:00:00+02:00",
+    "endDate": "2019-06-05T03:00:00+02:00",
+    "price_euros_mwh": 24.55,
+    "wind_mwh": 2946,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T03:00:00+02:00",
+    "endDate": "2019-06-05T04:00:00+02:00",
+    "price_euros_mwh": 24.54,
+    "wind_mwh": 2507,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T04:00:00+02:00",
+    "endDate": "2019-06-05T05:00:00+02:00",
+    "price_euros_mwh": 25.31,
+    "wind_mwh": 2003,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T05:00:00+02:00",
+    "endDate": "2019-06-05T06:00:00+02:00",
+    "price_euros_mwh": 24.6,
+    "wind_mwh": 1934,
+    "solar_mwh": 110
+  },
+  {
+    "startDate": "2019-06-05T06:00:00+02:00",
+    "endDate": "2019-06-05T07:00:00+02:00",
+    "price_euros_mwh": 27.46,
+    "wind_mwh": 2065,
+    "solar_mwh": 181
+  },
+  {
+    "startDate": "2019-06-05T07:00:00+02:00",
+    "endDate": "2019-06-05T08:00:00+02:00",
+    "price_euros_mwh": 37.14,
+    "wind_mwh": 1709,
+    "solar_mwh": 474
+  },
+  {
+    "startDate": "2019-06-05T08:00:00+02:00",
+    "endDate": "2019-06-05T09:00:00+02:00",
+    "price_euros_mwh": 44.99,
+    "wind_mwh": 1384,
+    "solar_mwh": 1134
+  },
+  {
+    "startDate": "2019-06-05T09:00:00+02:00",
+    "endDate": "2019-06-05T10:00:00+02:00",
+    "price_euros_mwh": 43.97,
+    "wind_mwh": 1296,
+    "solar_mwh": 1928
+  },
+  {
+    "startDate": "2019-06-05T10:00:00+02:00",
+    "endDate": "2019-06-05T11:00:00+02:00",
+    "price_euros_mwh": 41.38,
+    "wind_mwh": 1334,
+    "solar_mwh": 2684
+  },
+  {
+    "startDate": "2019-06-05T11:00:00+02:00",
+    "endDate": "2019-06-05T12:00:00+02:00",
+    "price_euros_mwh": 40.46,
+    "wind_mwh": 1477,
+    "solar_mwh": 3124
+  },
+  {
+    "startDate": "2019-06-05T12:00:00+02:00",
+    "endDate": "2019-06-05T13:00:00+02:00",
+    "price_euros_mwh": 38.85,
+    "wind_mwh": 1605,
+    "solar_mwh": 3492
+  },
+  {
+    "startDate": "2019-06-05T13:00:00+02:00",
+    "endDate": "2019-06-05T14:00:00+02:00",
+    "price_euros_mwh": 36.32,
+    "wind_mwh": 1659,
+    "solar_mwh": 3601
+  },
+  {
+    "startDate": "2019-06-05T14:00:00+02:00",
+    "endDate": "2019-06-05T15:00:00+02:00",
+    "price_euros_mwh": 36.19,
+    "wind_mwh": 1782,
+    "solar_mwh": 3457
+  },
+  {
+    "startDate": "2019-06-05T15:00:00+02:00",
+    "endDate": "2019-06-05T16:00:00+02:00",
+    "price_euros_mwh": 38.01,
+    "wind_mwh": 2048,
+    "solar_mwh": 3219
+  },
+  {
+    "startDate": "2019-06-05T16:00:00+02:00",
+    "endDate": "2019-06-05T17:00:00+02:00",
+    "price_euros_mwh": 39,
+    "wind_mwh": 2525,
+    "solar_mwh": 2869
+  },
+  {
+    "startDate": "2019-06-05T17:00:00+02:00",
+    "endDate": "2019-06-05T18:00:00+02:00",
+    "price_euros_mwh": 41.37,
+    "wind_mwh": 2841,
+    "solar_mwh": 2222
+  },
+  {
+    "startDate": "2019-06-05T18:00:00+02:00",
+    "endDate": "2019-06-05T19:00:00+02:00",
+    "price_euros_mwh": 43.92,
+    "wind_mwh": 3283,
+    "solar_mwh": 1494
+  },
+  {
+    "startDate": "2019-06-05T19:00:00+02:00",
+    "endDate": "2019-06-05T20:00:00+02:00",
+    "price_euros_mwh": 44.07,
+    "wind_mwh": 4018,
+    "solar_mwh": 902
+  },
+  {
+    "startDate": "2019-06-05T20:00:00+02:00",
+    "endDate": "2019-06-05T21:00:00+02:00",
+    "price_euros_mwh": 33.88,
+    "wind_mwh": 4798,
+    "solar_mwh": 393
+  },
+  {
+    "startDate": "2019-06-05T21:00:00+02:00",
+    "endDate": "2019-06-05T22:00:00+02:00",
+    "price_euros_mwh": 31.08,
+    "wind_mwh": 5068,
+    "solar_mwh": 156
+  },
+  {
+    "startDate": "2019-06-05T22:00:00+02:00",
+    "endDate": "2019-06-05T23:00:00+02:00",
+    "price_euros_mwh": 39.99,
+    "wind_mwh": 4932,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-05T23:00:00+02:00",
+    "endDate": "2019-06-06T00:00:00+02:00",
+    "price_euros_mwh": 32.09,
+    "wind_mwh": 4249,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T00:00:00+02:00",
+    "endDate": "2019-06-06T01:00:00+02:00",
+    "price_euros_mwh": 28.5,
+    "wind_mwh": 3923,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T01:00:00+02:00",
+    "endDate": "2019-06-06T02:00:00+02:00",
+    "price_euros_mwh": 26.5,
+    "wind_mwh": 3630,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T02:00:00+02:00",
+    "endDate": "2019-06-06T03:00:00+02:00",
+    "price_euros_mwh": 24.64,
+    "wind_mwh": 3222,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T03:00:00+02:00",
+    "endDate": "2019-06-06T04:00:00+02:00",
+    "price_euros_mwh": 24.03,
+    "wind_mwh": 2820,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T04:00:00+02:00",
+    "endDate": "2019-06-06T05:00:00+02:00",
+    "price_euros_mwh": 24.06,
+    "wind_mwh": 2596,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T05:00:00+02:00",
+    "endDate": "2019-06-06T06:00:00+02:00",
+    "price_euros_mwh": 27.54,
+    "wind_mwh": 2237,
+    "solar_mwh": 105
+  },
+  {
+    "startDate": "2019-06-06T06:00:00+02:00",
+    "endDate": "2019-06-06T07:00:00+02:00",
+    "price_euros_mwh": 32.16,
+    "wind_mwh": 1909,
+    "solar_mwh": 190
+  },
+  {
+    "startDate": "2019-06-06T07:00:00+02:00",
+    "endDate": "2019-06-06T08:00:00+02:00",
+    "price_euros_mwh": 40.73,
+    "wind_mwh": 1604,
+    "solar_mwh": 584
+  },
+  {
+    "startDate": "2019-06-06T08:00:00+02:00",
+    "endDate": "2019-06-06T09:00:00+02:00",
+    "price_euros_mwh": 42.91,
+    "wind_mwh": 1370,
+    "solar_mwh": 1526
+  },
+  {
+    "startDate": "2019-06-06T09:00:00+02:00",
+    "endDate": "2019-06-06T10:00:00+02:00",
+    "price_euros_mwh": 39.93,
+    "wind_mwh": 1175,
+    "solar_mwh": 2957
+  },
+  {
+    "startDate": "2019-06-06T10:00:00+02:00",
+    "endDate": "2019-06-06T11:00:00+02:00",
+    "price_euros_mwh": 34.11,
+    "wind_mwh": 1136,
+    "solar_mwh": 4142
+  },
+  {
+    "startDate": "2019-06-06T11:00:00+02:00",
+    "endDate": "2019-06-06T12:00:00+02:00",
+    "price_euros_mwh": 33.62,
+    "wind_mwh": 1097,
+    "solar_mwh": 5000
+  },
+  {
+    "startDate": "2019-06-06T12:00:00+02:00",
+    "endDate": "2019-06-06T13:00:00+02:00",
+    "price_euros_mwh": 32.31,
+    "wind_mwh": 1134,
+    "solar_mwh": 5279
+  },
+  {
+    "startDate": "2019-06-06T13:00:00+02:00",
+    "endDate": "2019-06-06T14:00:00+02:00",
+    "price_euros_mwh": 32,
+    "wind_mwh": 1134,
+    "solar_mwh": 5453
+  },
+  {
+    "startDate": "2019-06-06T14:00:00+02:00",
+    "endDate": "2019-06-06T15:00:00+02:00",
+    "price_euros_mwh": 32,
+    "wind_mwh": 1213,
+    "solar_mwh": 5439
+  },
+  {
+    "startDate": "2019-06-06T15:00:00+02:00",
+    "endDate": "2019-06-06T16:00:00+02:00",
+    "price_euros_mwh": 32.53,
+    "wind_mwh": 1378,
+    "solar_mwh": 5381
+  },
+  {
+    "startDate": "2019-06-06T16:00:00+02:00",
+    "endDate": "2019-06-06T17:00:00+02:00",
+    "price_euros_mwh": 33.58,
+    "wind_mwh": 1549,
+    "solar_mwh": 4812
+  },
+  {
+    "startDate": "2019-06-06T17:00:00+02:00",
+    "endDate": "2019-06-06T18:00:00+02:00",
+    "price_euros_mwh": 35.76,
+    "wind_mwh": 1775,
+    "solar_mwh": 3873
+  },
+  {
+    "startDate": "2019-06-06T18:00:00+02:00",
+    "endDate": "2019-06-06T19:00:00+02:00",
+    "price_euros_mwh": 35.98,
+    "wind_mwh": 1905,
+    "solar_mwh": 2547
+  },
+  {
+    "startDate": "2019-06-06T19:00:00+02:00",
+    "endDate": "2019-06-06T20:00:00+02:00",
+    "price_euros_mwh": 39.07,
+    "wind_mwh": 1927,
+    "solar_mwh": 1213
+  },
+  {
+    "startDate": "2019-06-06T20:00:00+02:00",
+    "endDate": "2019-06-06T21:00:00+02:00",
+    "price_euros_mwh": 39.17,
+    "wind_mwh": 2168,
+    "solar_mwh": 437
+  },
+  {
+    "startDate": "2019-06-06T21:00:00+02:00",
+    "endDate": "2019-06-06T22:00:00+02:00",
+    "price_euros_mwh": 34.34,
+    "wind_mwh": 2989,
+    "solar_mwh": 158
+  },
+  {
+    "startDate": "2019-06-06T22:00:00+02:00",
+    "endDate": "2019-06-06T23:00:00+02:00",
+    "price_euros_mwh": 41.81,
+    "wind_mwh": 4195,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-06T23:00:00+02:00",
+    "endDate": "2019-06-07T00:00:00+02:00",
+    "price_euros_mwh": 37.54,
+    "wind_mwh": 5115,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T00:00:00+02:00",
+    "endDate": "2019-06-07T01:00:00+02:00",
+    "price_euros_mwh": 35.77,
+    "wind_mwh": 5766,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T01:00:00+02:00",
+    "endDate": "2019-06-07T02:00:00+02:00",
+    "price_euros_mwh": 23.06,
+    "wind_mwh": 6499,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T02:00:00+02:00",
+    "endDate": "2019-06-07T03:00:00+02:00",
+    "price_euros_mwh": 21.72,
+    "wind_mwh": 7193,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T03:00:00+02:00",
+    "endDate": "2019-06-07T04:00:00+02:00",
+    "price_euros_mwh": 10.41,
+    "wind_mwh": 7501,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T04:00:00+02:00",
+    "endDate": "2019-06-07T05:00:00+02:00",
+    "price_euros_mwh": 6.85,
+    "wind_mwh": 7579,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T05:00:00+02:00",
+    "endDate": "2019-06-07T06:00:00+02:00",
+    "price_euros_mwh": 9.41,
+    "wind_mwh": 7514,
+    "solar_mwh": 112
+  },
+  {
+    "startDate": "2019-06-07T06:00:00+02:00",
+    "endDate": "2019-06-07T07:00:00+02:00",
+    "price_euros_mwh": 14.79,
+    "wind_mwh": 7319,
+    "solar_mwh": 194
+  },
+  {
+    "startDate": "2019-06-07T07:00:00+02:00",
+    "endDate": "2019-06-07T08:00:00+02:00",
+    "price_euros_mwh": 31.12,
+    "wind_mwh": 7361,
+    "solar_mwh": 570
+  },
+  {
+    "startDate": "2019-06-07T08:00:00+02:00",
+    "endDate": "2019-06-07T09:00:00+02:00",
+    "price_euros_mwh": 43.55,
+    "wind_mwh": 7101,
+    "solar_mwh": 1484
+  },
+  {
+    "startDate": "2019-06-07T09:00:00+02:00",
+    "endDate": "2019-06-07T10:00:00+02:00",
+    "price_euros_mwh": 41.99,
+    "wind_mwh": 6900,
+    "solar_mwh": 2639
+  },
+  {
+    "startDate": "2019-06-07T10:00:00+02:00",
+    "endDate": "2019-06-07T11:00:00+02:00",
+    "price_euros_mwh": 37.21,
+    "wind_mwh": 7524,
+    "solar_mwh": 3470
+  },
+  {
+    "startDate": "2019-06-07T11:00:00+02:00",
+    "endDate": "2019-06-07T12:00:00+02:00",
+    "price_euros_mwh": 33.39,
+    "wind_mwh": 8119,
+    "solar_mwh": 3845
+  },
+  {
+    "startDate": "2019-06-07T12:00:00+02:00",
+    "endDate": "2019-06-07T13:00:00+02:00",
+    "price_euros_mwh": 30.09,
+    "wind_mwh": 8074,
+    "solar_mwh": 4022
+  },
+  {
+    "startDate": "2019-06-07T13:00:00+02:00",
+    "endDate": "2019-06-07T14:00:00+02:00",
+    "price_euros_mwh": 27.7,
+    "wind_mwh": 8157,
+    "solar_mwh": 4242
+  },
+  {
+    "startDate": "2019-06-07T14:00:00+02:00",
+    "endDate": "2019-06-07T15:00:00+02:00",
+    "price_euros_mwh": 27.07,
+    "wind_mwh": 9446,
+    "solar_mwh": 4146
+  },
+  {
+    "startDate": "2019-06-07T15:00:00+02:00",
+    "endDate": "2019-06-07T16:00:00+02:00",
+    "price_euros_mwh": 27.21,
+    "wind_mwh": 10369,
+    "solar_mwh": 4165
+  },
+  {
+    "startDate": "2019-06-07T16:00:00+02:00",
+    "endDate": "2019-06-07T17:00:00+02:00",
+    "price_euros_mwh": 23.26,
+    "wind_mwh": 10532,
+    "solar_mwh": 3787
+  },
+  {
+    "startDate": "2019-06-07T17:00:00+02:00",
+    "endDate": "2019-06-07T18:00:00+02:00",
+    "price_euros_mwh": 31.27,
+    "wind_mwh": 10775,
+    "solar_mwh": 3111
+  },
+  {
+    "startDate": "2019-06-07T18:00:00+02:00",
+    "endDate": "2019-06-07T19:00:00+02:00",
+    "price_euros_mwh": 27.54,
+    "wind_mwh": 10814,
+    "solar_mwh": 2190
+  },
+  {
+    "startDate": "2019-06-07T19:00:00+02:00",
+    "endDate": "2019-06-07T20:00:00+02:00",
+    "price_euros_mwh": 32.17,
+    "wind_mwh": 10796,
+    "solar_mwh": 1164
+  },
+  {
+    "startDate": "2019-06-07T20:00:00+02:00",
+    "endDate": "2019-06-07T21:00:00+02:00",
+    "price_euros_mwh": 22.63,
+    "wind_mwh": 10534,
+    "solar_mwh": 417
+  },
+  {
+    "startDate": "2019-06-07T21:00:00+02:00",
+    "endDate": "2019-06-07T22:00:00+02:00",
+    "price_euros_mwh": 20.22,
+    "wind_mwh": 10669,
+    "solar_mwh": 160
+  },
+  {
+    "startDate": "2019-06-07T22:00:00+02:00",
+    "endDate": "2019-06-07T23:00:00+02:00",
+    "price_euros_mwh": 30.04,
+    "wind_mwh": 10396,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-07T23:00:00+02:00",
+    "endDate": "2019-06-08T00:00:00+02:00",
+    "price_euros_mwh": 26.25,
+    "wind_mwh": 10251,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T00:00:00+02:00",
+    "endDate": "2019-06-08T01:00:00+02:00",
+    "price_euros_mwh": 3.25,
+    "wind_mwh": 10053,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T01:00:00+02:00",
+    "endDate": "2019-06-08T02:00:00+02:00",
+    "price_euros_mwh": 0.9,
+    "wind_mwh": 9899,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T02:00:00+02:00",
+    "endDate": "2019-06-08T03:00:00+02:00",
+    "price_euros_mwh": 2.71,
+    "wind_mwh": 9858,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T03:00:00+02:00",
+    "endDate": "2019-06-08T04:00:00+02:00",
+    "price_euros_mwh": -17.67,
+    "wind_mwh": 9533,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T04:00:00+02:00",
+    "endDate": "2019-06-08T05:00:00+02:00",
+    "price_euros_mwh": -24.92,
+    "wind_mwh": 9403,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T05:00:00+02:00",
+    "endDate": "2019-06-08T06:00:00+02:00",
+    "price_euros_mwh": -20.54,
+    "wind_mwh": 9250,
+    "solar_mwh": 111
+  },
+  {
+    "startDate": "2019-06-08T06:00:00+02:00",
+    "endDate": "2019-06-08T07:00:00+02:00",
+    "price_euros_mwh": -6.65,
+    "wind_mwh": 8956,
+    "solar_mwh": 212
+  },
+  {
+    "startDate": "2019-06-08T07:00:00+02:00",
+    "endDate": "2019-06-08T08:00:00+02:00",
+    "price_euros_mwh": 2.64,
+    "wind_mwh": 8866,
+    "solar_mwh": 689
+  },
+  {
+    "startDate": "2019-06-08T08:00:00+02:00",
+    "endDate": "2019-06-08T09:00:00+02:00",
+    "price_euros_mwh": 5.3,
+    "wind_mwh": 8669,
+    "solar_mwh": 1946
+  },
+  {
+    "startDate": "2019-06-08T09:00:00+02:00",
+    "endDate": "2019-06-08T10:00:00+02:00",
+    "price_euros_mwh": 5.27,
+    "wind_mwh": 8796,
+    "solar_mwh": 3475
+  },
+  {
+    "startDate": "2019-06-08T10:00:00+02:00",
+    "endDate": "2019-06-08T11:00:00+02:00",
+    "price_euros_mwh": 5.34,
+    "wind_mwh": 8698,
+    "solar_mwh": 4566
+  },
+  {
+    "startDate": "2019-06-08T11:00:00+02:00",
+    "endDate": "2019-06-08T12:00:00+02:00",
+    "price_euros_mwh": 6.62,
+    "wind_mwh": 8414,
+    "solar_mwh": 5268
+  },
+  {
+    "startDate": "2019-06-08T12:00:00+02:00",
+    "endDate": "2019-06-08T13:00:00+02:00",
+    "price_euros_mwh": 11.34,
+    "wind_mwh": 8176,
+    "solar_mwh": 5539
+  },
+  {
+    "startDate": "2019-06-08T13:00:00+02:00",
+    "endDate": "2019-06-08T14:00:00+02:00",
+    "price_euros_mwh": 6.08,
+    "wind_mwh": 7720,
+    "solar_mwh": 5683
+  },
+  {
+    "startDate": "2019-06-08T14:00:00+02:00",
+    "endDate": "2019-06-08T15:00:00+02:00",
+    "price_euros_mwh": 0.03,
+    "wind_mwh": 7378,
+    "solar_mwh": 5650
+  },
+  {
+    "startDate": "2019-06-08T15:00:00+02:00",
+    "endDate": "2019-06-08T16:00:00+02:00",
+    "price_euros_mwh": 0,
+    "wind_mwh": 6696,
+    "solar_mwh": 5516
+  },
+  {
+    "startDate": "2019-06-08T16:00:00+02:00",
+    "endDate": "2019-06-08T17:00:00+02:00",
+    "price_euros_mwh": 3.43,
+    "wind_mwh": 5797,
+    "solar_mwh": 4964
+  },
+  {
+    "startDate": "2019-06-08T17:00:00+02:00",
+    "endDate": "2019-06-08T18:00:00+02:00",
+    "price_euros_mwh": 6.86,
+    "wind_mwh": 5301,
+    "solar_mwh": 4003
+  },
+  {
+    "startDate": "2019-06-08T18:00:00+02:00",
+    "endDate": "2019-06-08T19:00:00+02:00",
+    "price_euros_mwh": 10.57,
+    "wind_mwh": 4478,
+    "solar_mwh": 2706
+  },
+  {
+    "startDate": "2019-06-08T19:00:00+02:00",
+    "endDate": "2019-06-08T20:00:00+02:00",
+    "price_euros_mwh": 12.92,
+    "wind_mwh": 3186,
+    "solar_mwh": 1356
+  },
+  {
+    "startDate": "2019-06-08T20:00:00+02:00",
+    "endDate": "2019-06-08T21:00:00+02:00",
+    "price_euros_mwh": 11.8,
+    "wind_mwh": 2220,
+    "solar_mwh": 471
+  },
+  {
+    "startDate": "2019-06-08T21:00:00+02:00",
+    "endDate": "2019-06-08T22:00:00+02:00",
+    "price_euros_mwh": 12.39,
+    "wind_mwh": 1444,
+    "solar_mwh": 167
+  },
+  {
+    "startDate": "2019-06-08T22:00:00+02:00",
+    "endDate": "2019-06-08T23:00:00+02:00",
+    "price_euros_mwh": 21.94,
+    "wind_mwh": 1018,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-08T23:00:00+02:00",
+    "endDate": "2019-06-09T00:00:00+02:00",
+    "price_euros_mwh": 28.72,
+    "wind_mwh": 934,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-09T00:00:00+02:00",
+    "endDate": "2019-06-09T01:00:00+02:00",
+    "price_euros_mwh": 26.15,
+    "wind_mwh": 996,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-09T01:00:00+02:00",
+    "endDate": "2019-06-09T02:00:00+02:00",
+    "price_euros_mwh": 18.7,
+    "wind_mwh": 1125,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-09T02:00:00+02:00",
+    "endDate": "2019-06-09T03:00:00+02:00",
+    "price_euros_mwh": 17.13,
+    "wind_mwh": 1217,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-09T03:00:00+02:00",
+    "endDate": "2019-06-09T04:00:00+02:00",
+    "price_euros_mwh": 15.11,
+    "wind_mwh": 1374,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-09T04:00:00+02:00",
+    "endDate": "2019-06-09T05:00:00+02:00",
+    "price_euros_mwh": 14.68,
+    "wind_mwh": 1504,
+    "solar_mwh": 0
+  },
+  {
+    "startDate": "2019-06-09T05:00:00+02:00",
+    "endDate": "2019-06-09T06:00:00+02:00",
+    "price_euros_mwh": 13.87,
+    "wind_mwh": 1552,
+    "solar_mwh": 118
+  },
+  {
+    "startDate": "2019-06-09T06:00:00+02:00",
+    "endDate": "2019-06-09T07:00:00+02:00",
+    "price_euros_mwh": 15.73,
+    "wind_mwh": 1565,
+    "solar_mwh": 185
+  },
+  {
+    "startDate": "2019-06-09T07:00:00+02:00",
+    "endDate": "2019-06-09T08:00:00+02:00",
+    "price_euros_mwh": 15.93,
+    "wind_mwh": 1665,
+    "solar_mwh": 504
+  },
+  {
+    "startDate": "2019-06-09T08:00:00+02:00",
+    "endDate": "2019-06-09T09:00:00+02:00",
+    "price_euros_mwh": 18,
+    "wind_mwh": 1575,
+    "solar_mwh": 1090
+  },
+  {
+    "startDate": "2019-06-09T09:00:00+02:00",
+    "endDate": "2019-06-09T10:00:00+02:00",
+    "price_euros_mwh": 14.88,
+    "wind_mwh": 1459,
+    "solar_mwh": 1768
+  },
+  {
+    "startDate": "2019-06-09T10:00:00+02:00",
+    "endDate": "2019-06-09T11:00:00+02:00",
+    "price_euros_mwh": 10.8
+  },
+  {
+    "startDate": "2019-06-09T11:00:00+02:00",
+    "endDate": "2019-06-09T12:00:00+02:00",
+    "price_euros_mwh": 15.73
+  },
+  {
+    "startDate": "2019-06-09T12:00:00+02:00",
+    "endDate": "2019-06-09T13:00:00+02:00",
+    "price_euros_mwh": 18.33
+  },
+  {
+    "startDate": "2019-06-09T13:00:00+02:00",
+    "endDate": "2019-06-09T14:00:00+02:00",
+    "price_euros_mwh": 15.81
+  },
+  {
+    "startDate": "2019-06-09T14:00:00+02:00",
+    "endDate": "2019-06-09T15:00:00+02:00",
+    "price_euros_mwh": 15.73
+  },
+  {
+    "startDate": "2019-06-09T15:00:00+02:00",
+    "endDate": "2019-06-09T16:00:00+02:00",
+    "price_euros_mwh": 17.94
+  },
+  {
+    "startDate": "2019-06-09T16:00:00+02:00",
+    "endDate": "2019-06-09T17:00:00+02:00",
+    "price_euros_mwh": 18.39
+  },
+  {
+    "startDate": "2019-06-09T17:00:00+02:00",
+    "endDate": "2019-06-09T18:00:00+02:00",
+    "price_euros_mwh": 20.68
+  },
+  {
+    "startDate": "2019-06-09T18:00:00+02:00",
+    "endDate": "2019-06-09T19:00:00+02:00",
+    "price_euros_mwh": 29.74
+  },
+  {
+    "startDate": "2019-06-09T19:00:00+02:00",
+    "endDate": "2019-06-09T20:00:00+02:00",
+    "price_euros_mwh": 32.12
+  },
+  {
+    "startDate": "2019-06-09T20:00:00+02:00",
+    "endDate": "2019-06-09T21:00:00+02:00",
+    "price_euros_mwh": 25.53
+  },
+  {
+    "startDate": "2019-06-09T21:00:00+02:00",
+    "endDate": "2019-06-09T22:00:00+02:00",
+    "price_euros_mwh": 19.86
+  },
+  {
+    "startDate": "2019-06-09T22:00:00+02:00",
+    "endDate": "2019-06-09T23:00:00+02:00",
+    "price_euros_mwh": 34.38
+  },
+  {
+    "startDate": "2019-06-09T23:00:00+02:00",
+    "endDate": "2019-06-10T00:00:00+02:00",
+    "price_euros_mwh": 35.6
+  }
+]
