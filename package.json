@@ -1,0 +1,21 @@
+{
+  "name": "pay-your-wind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "deploy": "./scripts/deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "gh-pages": "^2.0.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25",
+    "node-fetch": "^2.6.0",
+    "qs": "^6.7.0"
+  }
+}
