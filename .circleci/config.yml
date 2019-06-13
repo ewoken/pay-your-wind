@@ -6,20 +6,11 @@ version: 2
 jobs:
   build-deploy:
     docker:
-      # specify the version you desire here
       - image: circleci/node:lts
-
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/mongo:3.4.4
-
     working_directory: ~/repo
-
     steps:
       - checkout
 
-      # Download and cache dependencies
       - restore_cache:
           keys:
             - node-modules-{{ checksum "package.json" }}
@@ -45,6 +36,31 @@ jobs:
 
       - run: npm run deploy
 
+  twitter:
+    docker:
+      - image: circleci/node:lts
+    working_directory: ~/repo
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+            - node-modules-{{ checksum "package.json" }}
+            - node-modules-
+
+      - restore_cache:
+          keys:
+            - cache-data-v2-
+
+      - run: npm install
+
+      - save_cache:
+          key: node-modules-{{ checksum "package.json" }}
+          paths:
+            - node_modules
+
+      - run: npm run twitter
+
 workflows:
   version: 2
   nightly:
@@ -63,3 +79,13 @@ workflows:
           filters:
             branches:
               only: master
+  publish:
+    triggers:
+      - schedule:
+          cron: "30 7 * * 1" # UTC
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - twitter

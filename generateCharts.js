@@ -22,7 +22,7 @@ function template({ type, subventionData, priceData, prodData, obligationPrice, 
   </head>
 
   <body>
-      <div style="width: 800px; height: 600px;">
+      <div style="width: 800px; height: 600px; margin: 20px 0 0 20px">
         <canvas id="chart" width="100" height="100"></canvas>
         <p class="sources">
           <a href="./index.html">Sources: RTE, EPEX Spot SE, CRE</a>
