@@ -1,3 +1,9 @@
 .reports {
   margin-top: 10px;
 }
+
+.sources {
+  margin-top: 10px;
+  font-size: 9px;
+  text-align: right;
+}

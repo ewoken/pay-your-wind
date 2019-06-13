@@ -3,6 +3,7 @@ rm -rf build
 mkdir build
 
 node generateIndex.js || exit 1
+node generateCharts.js || exit 1
 
 cp -r public/* build/
 cp buyObligationPrices.json data
