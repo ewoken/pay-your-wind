@@ -54,7 +54,7 @@ function template({ years, reports }) {
                         </div>
                       </div>
                       <div class="reports">
-                        Data are updated everyday from RTE and EPEX Spot SE.
+                        Data are updated weekly from RTE and EPEX Spot SE.
                       </div>
                       <div class="reports">
                         <a href="./windChart.html">Last week wind subvention chart</a><br/>
