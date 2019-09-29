@@ -77,7 +77,7 @@ function t ({ startWeek, endWeek, weekSubventions, prod }) {
   return `Semaine du ${startWeek.format('DD/MM/YY')} au ${endWeek.format('DD/MM/YY')}:
 Production éolienne et PV: ${Math.ceil(prod / 1000)} GWh
 Subventions: ${Math.ceil(weekSubventions / 10**6)} M€
-Effet sur les émissions de gaz à effet de serre: aucun.
+Objectif: remplacer du bas-carbone (nucléaire) par du bas-carbone (loi LTECV).
 Sources: RTE, EPEX Spot, CRE.
 https://ewoken.github.io/pay-your-wind
 #argentPublic #EnR #transitionEnergetique.`
