@@ -3,14 +3,13 @@ const fs = require('fs');
 const dotenv = require('dotenv');
 dotenv.config();
 const moment = require('moment-timezone');
-const { flatten, difference } = require('lodash');
+const { flatten, difference, range } = require('lodash');
 const fetch = require ('node-fetch');
 
 const { fetchToken, getWindAndSolarProd } = require('./rteApi');
 const { mergeData, toCSV, chunkAndChainPromises } = require('./helpers');
 
 const BUY_OBLIGATION_PRICES = require('./buyObligationPrices.json');
-const years = Object.keys(BUY_OBLIGATION_PRICES).map(i => Number(i));
 
 function chunkPeriod(startDate, endDate, days) {
   const totalDays = moment(endDate).diff(startDate, 'days');
@@ -89,7 +88,8 @@ async function main() {
     .filter(filename => filename.endsWith('.json'))
     .map(filename => Number(filename.split('.')[0]))
     .filter(year => year !== moment().tz('Europe/Paris').year());
-  const yearTodo = difference(years, doneYears);
+  const allYears = range(2015, moment().tz('Europe/Paris').year() + 1);
+  const yearTodo = difference(allYears, doneYears);
 
   console.log(yearTodo);
   await chunkAndChainPromises(yearTodo, year => getYearData(year, token), 1);
