@@ -1,8 +1,9 @@
+const moment = require('moment-timezone');
 const { groupBy, mapValues, values, sortBy, merge, chunk } = require('lodash');
 
 function mergeData(dataArrays) {
   const allData = [].concat(...dataArrays);
-  const groupedByDate = groupBy(allData, d => d.startDate);
+  const groupedByDate = groupBy(allData, d => moment(d.startDate).toISOString());
   const mergedByDate = mapValues(groupedByDate, group => merge({}, ...group));
   const res = values(mergedByDate);
 
