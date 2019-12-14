@@ -1,6 +1,6 @@
 {
   "2015": {
-    "solar_euros_mwh": 373.4,
+    "solar_euros_mwh": 374,
     "wind_euros_mwh": 88.6
   },
   "2016": {
@@ -12,11 +12,15 @@
     "wind_euros_mwh": 88.2
   },
   "2018": {
-    "solar_euros_mwh": 304.6,
-    "wind_euros_mwh": 91.2
+    "solar_euros_mwh": 298.1,
+    "wind_euros_mwh": 88.6
   },
   "2019": {
-    "solar_euros_mwh": 294.2,
-    "wind_euros_mwh": 89.4
+    "solar_euros_mwh": 295.4,
+    "wind_euros_mwh": 89.8
+  },
+  "2020": {
+    "solar_euros_mwh": 288.8,
+    "wind_euros_mwh": 91.1
   }
 }
