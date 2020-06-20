@@ -6,7 +6,7 @@ const moment = require('moment-timezone');
 const { flatten, difference, range } = require('lodash');
 const fetch = require ('node-fetch');
 
-const { fetchToken, getWindAndSolarProd2 } = require('./rteApi');
+const { fetchToken, getWindAndSolarProd } = require('./rteApi');
 const { mergeData, toCSV, chunkAndChainPromises } = require('./helpers');
 
 const BUY_OBLIGATION_PRICES = require('./buyObligationPrices.json');
@@ -57,10 +57,9 @@ async function getYearData(year, token) {
     : moment({ year: year + 1 }).tz('Europe/Paris').startOf('year');
 
   const windAndSolarProd = flatten(
-    await chunkAndChainPromises(
-      chunkPeriod(startYear, endYear, 7),
-      ({ startDate, endDate }) => getWindAndSolarProd2(startDate, endDate, token),
-      4
+    await Promise.all(
+      chunkPeriod(startYear, endYear, 100)
+        .map(({ startDate, endDate }) => getWindAndSolarProd(startDate, endDate, token))
     )
   );
   const priceData = await getPrices(year);
